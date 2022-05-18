@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+  }
+
+body {
+    background-color: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+header h1 {
+    padding-bottom: 50px;
+}
+
+main section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.362);
+    
+}
+
+main section div {
+    text-align: center;
+    padding: 8px;
+} 
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-top: 30px;
+}
